@@ -1,3 +1,4 @@
+label,group,description,value,unit,rationale,reference,link
 Fact_M_budget_CO2_world_2020,ui,Weltweites CO2 Budget 2020,400000000000,t,"CO2-Budget ab 01.01.2020, um mit 67% Chance 1.5-Grad-Limit einzuhalten","IPCC SAR6 2021, S.39"
 Fact_M_emission_C_world_2015,ui,Weltweite Emissionen 2015 in t C,11200000000.000002,t/a,,"ESSD Model 2016, Table 8"
 Fact_M_emission_C_world_2016,ui,Weltweite Emissionen 2016 in t C,11200000000,t/a,,"ESSD Model 2017, Tabel 6"
