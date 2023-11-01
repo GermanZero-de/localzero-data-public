@@ -1175,14 +1175,6 @@ Fact_W_P_wastewater_fec_elec_pct_of_Ger_2018,ui,Anteil Stromverbrauch Abwasserbe
 Fact_W_P_wastewater_fec_elec_2018,ud,Stromverbrauch Abwasserbehandlung Deutschland 2018,3593289,MWh,Berechnung =Fact_E_P_elec_prodvol_netto_2018*Fact_W_P_wastewater_fec_elec_pct_of_Ger_2018,Berechnung,
 Fact_W_S_elec_fec_2018,ud,Stromverbrauch Abfallwirtschaft Deutschland 2018,3593289,MWh,,Berechnung,
 Fact_M_population_germany_refyear,ui,Bevölkerung Deutschland 31.12.2018,83019213,,Für DG000000 (Deutschland) sind 83019213 Personen zum 31.12.2018 gemeldet,destatis Regionaldatenbank 12411-01-01-5: Bevölkerung nach Geschlecht - Stichtag 31.12. - regionale Tiefe: Gemeinden,https://www.regionalstatistik.de/genesis//online?operation=table&code=12411-01-01-5&bypass=true&levelindex=1&levelid=1698850306369#abreadcrumb
-Fact_M_CO2e_wo_lulucf_2022,,,,,,,
-Fact_M_CO2e_wo_lulucf_2023,,,,,,,
-Fact_M_CO2e_wo_lulucf_2022_vs_2018,,,,,,,
-Fact_M_CO2e_wo_lulucf_2023_vs_2018,,,,,,,
-Fact_M_CO2e_lulucf_2021,,,,,,,
-Fact_M_CO2e_lulucf_2021,,,,,,,
-Fact_M_CO2e_lulucf_2022_vs_2018,,,,,,,
-Fact_M_CO2e_lulucf_2023_vs_2018,,,,,,,
 Fact_I_P_chem_carbon_black_CO2e_pb_2018,ui,Prozessbedingte CO2e Industrieruß-Produktion 2018 (Teil von CRF 2.B.8),641030,t,Aus NIR abgelesen,UBA 2020 NIR 2018 S. 328,https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-04-15-climate-change_22-2020_nir_2020_de_0.pdf
 Fact_I_P_chem_soda_CO2e_pb_2018,ui,Prozessbedingte CO2e Soda Produktion 2018 (CRF 2.B.7),453080,t,Aus NIR abgelesen,UBA 2020 NIR 2018 S. 327,https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-04-15-climate-change_22-2020_nir_2020_de_0.pdf
 Fact_I_P_chem_petro_chemicals_CO2e_pb_2018,ui,Prozessbedingte CO2e Petrochemie 2018 (Teil von CRF 2.B.8),709520,t,Aus NIR abgelesen,UBA 2020 NIR 2018 S. 328,https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-04-15-climate-change_22-2020_nir_2020_de_0.pdf
