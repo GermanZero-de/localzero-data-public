@@ -1,0 +1,7 @@
+﻿column title,unit,source,title
+demand_2018,MW/ha,"Tabelle 17, S. 111, https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/32_2023_cc_flaechenverfuegbarkeit_und_flaechenbedarfe_fuer_den_ausbau_der_windenergie_an_land_0.pdf",Spezifische WEA-Leistung pro Fläche je Bundesland bei vollständig freier Fläche 2030
+PV_average_flh,h/a,https://www.foederal-erneuerbar.de/uebersicht/bundeslaender/BW%7CBY%7CB%7CBB%7CHB%7CHH%7CHE%7CMV%7CNI%7CNRW%7CRLP%7CSL%7CSN%7CST%7CSH%7CTH%7CD/kategorie/solar/auswahl/813-durchschnittliche_ja/jahr/2020/ordnung/2020/#goto_813,Durchschnittliche Jahresvolllaststunden PV 2021
+PV_roof_2017,%,https://www.foederal-erneuerbar.de/uebersicht/bundeslaender/BW%7CBY%7CB%7CBB%7CHB%7CHH%7CHE%7CMV%7CNI%7CNRW%7CRLP%7CSL%7CSN%7CST%7CSH%7CTH%7CD/kategorie/solar/auswahl/990-anteil_dachanlagen_a/#goto_990,Anteil Dachanlagen an der installierten PV-Leistung 2021
+PV_land_2017,%,https://www.foederal-erneuerbar.de/uebersicht/bundeslaender/BW%7CBY%7CB%7CBB%7CHB%7CHH%7CHE%7CMV%7CNI%7CNRW%7CRLP%7CSL%7CSN%7CST%7CSH%7CTH%7CD/kategorie/solar/auswahl/991-anteil_freiflaechena/#goto_991,Anteil Freiflächenanlagen an der installierten PV-Leistung 2021
+PV_others,%,calculation based on the former two columns,
+bioenergy_potential,TJ,S. 109 https://www.unendlich-viel-energie.de/media/file/239.AEE_Potenzialatlas_Bioenergie_Daten+Quellen_feb13.pdf,Energetisches Bioenergie-Potential

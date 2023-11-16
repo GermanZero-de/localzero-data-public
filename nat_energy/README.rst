@@ -1,4 +1,4 @@
 nat energy data
 ===============
 
-We will add more information here later.
+See sources.csv for information on how we computed the individual columns
