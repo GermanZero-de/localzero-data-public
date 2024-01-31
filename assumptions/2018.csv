@@ -297,24 +297,24 @@ Ass_T_D_trnsprt_gds_ship_2050,ud,Transportleistung Binnenschiff 2050,71000000000
 Ass_T_D_trnsprt_gds_Air_2050,ui,Transportleistung Luftfracht 2050,0.0,tkm,,"UBA 2020 (GreenSupreme), S. 69",https://www.umweltbundesamt.de/publikationen/transformationsprozess-treibhausgasneutrales-ressourcenschonendes-deutschland-greensupreme
 Ass_T_D_lf_gds_LDT_2050,ud,LNF-Auslastung Güter Bundesschnitt 2050,0.15010244004187273,t/Fz,"Annahme, dass die Auslastung konstant zu 2018 bleibt ;  Analog zu Fakten  berechnet aus Fact_T_D_trnsprt_gds_LDT_2018 und Fact_T_D_mlg_LDT_2018_ifeu",,
 Ass_T_D_lf_gds_MHD_2050,ud,SNF Auslastung Güter Bundesschnitt,7.482967704218913,t/Fz,"Annahme, dass die Auslastung konstant zu 2018 bleibt ;  Analog zu Fakten berechnet aus Fact_T_D_trnsprt_gds_MHD_2018 und Fact_T_D_mlg_MHD_2018_ifeu",,
-Ass_T_D_trnsprt_ppl_city_car1_frac_2050,ud,Anteil Stadt MIV,0.2,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
+Ass_T_D_trnsprt_ppl_city_car1_frac_2050,ud,Anteil Stadt MIV,0.195,,"Anpassung von 0.2 auf 0.195 aufgrund von fehlerhafter Aufteilung in Quelle","Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_city_car2_frac_2050,ud,Anteil Stadt Car Sharing,0.05,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_city_car3_frac_2050,ud,Anteil Stadt Ride Sharing und Taxis,0.05,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
-Ass_T_D_trnsprt_ppl_city_pt_frac_2050,ud,Anteil Stadt ÖV,0.46,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
+Ass_T_D_trnsprt_ppl_city_pt_frac_2050,ud,Anteil Stadt ÖV,0.455,,"Anpassung von 0.46 auf 0.445 aufgrund von fehlerhafter Aufteilung in Quelle","Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_city_car4_frac_2050,ud,Anteil Stadt Ride Pooling,0.1,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_city_foot_frac_2050,ud,Anteil Stadt Fuß,0.05,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_city_cycl_frac_2050,ud,Anteil Stadt Fahrrad,0.1,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
-Ass_T_D_trnsprt_ppl_smcty_car1_frac_2050,ud,Anteil Halbstadt MIV,0.33,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
+Ass_T_D_trnsprt_ppl_smcty_car1_frac_2050,ud,Anteil Halbstadt MIV,0.335,,"Anpassung von 0.33 auf 0.335 aufgrund von fehlerhafter Aufteilung in Quelle","Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_smcty_car2_frac_2050,ud,Anteil Halbstadt Car Sharing,0.1,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_smcty_car3_frac_2050,ud,Anteil Halbstadt Ride Sharing und Taxis,0.03,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
-Ass_T_D_trnsprt_ppl_smcty_pt_frac_2050,ud,Anteil Halbstadt ÖV,0.36,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
+Ass_T_D_trnsprt_ppl_smcty_pt_frac_2050,ud,Anteil Halbstadt ÖV,0.365,,"Anpassung von 0.36 auf 0.365 aufgrund von fehlerhafter Aufteilung in Quelle","Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_smcty_car4_frac_2050,ud,Anteil Halbstadt Ride Pooling,0.07,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_smcty_foot_frac_2050,ud,Anteil Halbstadt Fuß,0.04,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_smcty_cycl_frac_2050,ud,Anteil Halbstadt Fahrrad,0.06,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
-Ass_T_D_trnsprt_ppl_rural_car1_frac_2050,ud,Anteil Land MIV,0.35,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
+Ass_T_D_trnsprt_ppl_rural_car1_frac_2050,ud,Anteil Land MIV,0.345,,"Anpassung von 0.35 auf 0.345 aufgrund von fehlerhafter Aufteilung in Quelle","Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_rural_car2_frac_2050,ud,Anteil Land Car Sharing,0.11,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_rural_car3_frac_2050,ud,Anteil Land Ride Sharing und Taxis,0.03,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
-Ass_T_D_trnsprt_ppl_rural_pt_frac_2050,ud,Anteil Land ÖV,0.35,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
+Ass_T_D_trnsprt_ppl_rural_pt_frac_2050,ud,Anteil Land ÖV,0.345,,"Anpassung von 0.35 auf 0.345 aufgrund von fehlerhafter Aufteilung in Quelle","Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_rural_car4_frac_2050,ud,Anteil Land Ride Pooling,0.07,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_rural_foot_frac_2050,ud,Anteil Land Fuß,0.04,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
 Ass_T_D_trnsprt_ppl_rural_cycl_frac_2050,ud,Anteil Land Fahrrad,0.06,,,"Agora 2050, S.88",https://www.agora-energiewende.de/veroeffentlichungen/klimaneutrales-deutschland/
