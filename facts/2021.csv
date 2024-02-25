@@ -301,19 +301,6 @@ Fact_I_S_biomass_fec_2018,ui (Entry),EEV Industrie 2021 Biomasse,32683055.555555
 Fact_I_S_orenew_fec_2018,ui (Entry),EEV Industrie 2021 Sonstige EE (Geothermie),140277.77777777778,,Sonstige erneuerbare EnergietrÃ¤ger,"AG EB 2023 Bilanz 2021 Zeile 60, Spalte AB",https://ag-energiebilanzen.de/wp-content/uploads/2023/03/Bilanz-2021.pdf 
 Fact_I_S_ofossil_fec_2018,ui (Entry),EEV Industrie 2021 Sonstige Konventionelle,2177500,,"Nicht erneuerbare AbfÃ¤lle, AbwÃ¤rme","AG EB 2023 Bilanz 2021 Zeile 60, Spalte AC",https://ag-energiebilanzen.de/wp-content/uploads/2023/03/Bilanz-2021.pdf 
 Fact_I_S_heatnet_fec_2018,ui (Entry),EEV Industrie 2021 WÃ¤rmenetze (FernwÃ¤rme + NahwÃ¤rme),48103055.55555555,,FernwÃ¤rme,"AG EB 2023 Bilanz 2021 Zeile 60, Spalte AF",https://ag-energiebilanzen.de/wp-content/uploads/2023/03/Bilanz-2021.pdf 
-Fact_I_P_chem_ammonia_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,1.09004141908423,,,,
-Fact_I_P_chem_basic_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,1.09823571262224,,,,
-Fact_I_P_chem_other_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.44907322283469,,,,
-Fact_I_P_metal_nonfe_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.726500656044222,,,,
-Fact_I_P_metal_steel_primary_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.646166537425283,,,,
-Fact_I_P_metal_steel_secondary_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,1.73673790107413,,,,
-Fact_I_P_miner_cement_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,1.03285236060535,,,,
-Fact_I_P_miner_ceram_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.67523729907913,,,,
-Fact_I_P_miner_chalk_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,1.10927548361908,,,,
-Fact_I_P_miner_glas_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.896623411804647,,,,
-Fact_I_P_other_food_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.452618764044943,,,,
-Fact_I_P_other_further_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.322364270063622,,,,
-Fact_I_P_other_paper_ratio_CO2e_excel_to_dehst,ui,Ratio of CO2e calculated based on NIR to the sum of emissions from industry plants included in DEHST.,0.981434782608695,,,,
 Fact_I_S_miner_cementchalk_fec_2018,ui,EEV Zementindustrie+Kalkindustrie 2021 (WZ 23 Rest),55762777.777777776,MWh,"Verarbeitung v. Steine u. Erden (WZ 23 Rest) (Zeile 53, Umgerechnet in MWh)","AG EB 2023 Bilanz 2021 Zeile 53, Spalte AI",https://ag-energiebilanzen.de/wp-content/uploads/2023/03/Bilanz-2021.pdf 
 Fact_I_S_miner_cementchalk_coal_fec_2018,ui,EEV Kohle Zementindustrie+Kalkindustrie 2021 (WZ 23 Rest),15543055.555555556,MWh/a,Steinkohlen + Braunkohlen,AG EB 2023 Bilanz 2021 Zeile 53 Spalte C-J,https://ag-energiebilanzen.de/wp-content/uploads/2023/03/Bilanz-2021.pdf 
 Fact_I_S_miner_cementchalk_diesel_fec_2018,ui,EEV Diesel Zementindustrie+Kalkindustrie 2021 (WZ 23 Rest),8888.888888888889,MWh/a,Diesel,AG EB 2023 Bilanz 2021 Zeile 53 Spalte O,https://ag-energiebilanzen.de/wp-content/uploads/2023/03/Bilanz-2021.pdf 
